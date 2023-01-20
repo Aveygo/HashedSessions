@@ -2,7 +2,7 @@
 [![Aveygo - HashedSessions](https://img.shields.io/static/v1?label=Aveygo&message=HashedSessions&color=black&logo=github)](https://github.com/Aveygo/HashedSessions "Go to GitHub repo")
 [![stars - HashedSessions](https://img.shields.io/github/stars/Aveygo/HashedSessions?style=social)](https://github.com/Aveygo/HashedSessions)   [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT) [![Python 3.9.9](https://img.shields.io/badge/python-3.9.9-black.svg)](https://www.python.org/downloads/release/python-399/)
 
-Create sessions with hashing, pure-python.
+Create sessions with hashing, pure-python / standard libraries .
 
 ## How it works
 
